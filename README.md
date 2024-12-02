@@ -10,7 +10,9 @@ Hizmet kalitesini artırmak için önerilerde bulunmak.
 ## Kullanılan Kütüphaneler:
 
 ** Pandas: Veri manipülasyonu
+
 ** NumPy: Nümerik hesaplamalar
+
 ** Matplotlib, Seaborn: Veri görselleştirme
 
 ## Analiz:
@@ -21,11 +23,15 @@ Hizmet kalitesini artırmak için önerilerde bulunmak.
 
 ## Görselleştirme:
 ** Teslimat sürelerinin dağılımı histogram ile gösterilmiştir.
+
 ** Mesafeye göre teslimat süreleri scatter plot ile incelenmiştir.
+
 ** Teslimat görevlilerinin performansı box plot ile karşılaştırılmıştır.
 
 ## Sonuçlar:
 
 ** Mesafe, teslimat süresini en çok etkileyen faktördür.
+
 ** Teslimat saatleri, trafik yoğunluğu ve hava durumu gibi faktörler de teslimat süresini etkilemektedir.
+
 ** Deneyimli teslimat görevlilerinin daha hızlı teslimat yaptığı gözlemlenmiştir.
